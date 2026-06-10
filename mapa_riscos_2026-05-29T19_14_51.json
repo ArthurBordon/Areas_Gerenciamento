@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1780081629725,
+    "name": "🦷 Falta de açúcar no escritório",
+    "prob": 3,
+    "impact": 1,
+    "response": "Projeto de 6 meses, time pequeno. Item trivial"
+  },
+  {
+    "id": 1780081693701,
+    "name": "🌩️ Tempestade danifica roteador de internet",
+    "prob": 1,
+    "impact": 5,
+    "response": "Ter mais de uma fornecedora de internet"
+  },
+  {
+    "id": 1780081734772,
+    "name": "👨‍💼 Gerente de projetos sai da empresa",
+    "prob": 2,
+    "impact": 4,
+    "response": "Ter um substituto para o cargo a qualquer hora"
+  },
+  {
+    "id": 1780081789588,
+    "name": "📉 Cliente reduz orçamento em 30% no meio do projeto",
+    "prob": 3,
+    "impact": 5,
+    "response": "manter cliente satisfeito"
+  },
+  {
+    "id": 1780081850404,
+    "name": "🐛 Bug crítico em produção no fim de semana",
+    "prob": 2,
+    "impact": 5,
+    "response": "manter produção atualizada e vistorias regulares"
+  },
+  {
+    "id": 1780081914660,
+    "name": "🏢 Fornecedor atrasa servidor em 2 semanas",
+    "prob": 1,
+    "impact": 4,
+    "response": "Ter outro fornecedor de emergência"
+  },
+  {
+    "id": 1780081955756,
+    "name": "🧠 Desenvolvedor júnior erra (retrabalho 3 dias)",
+    "prob": 4,
+    "impact": 3,
+    "response": "Deixar a comunicação mais clara, ainda mais com novatos"
+  },
+  {
+    "id": 1780081992596,
+    "name": "⚖️ Nova lei exige adaptações simples",
+    "prob": 1,
+    "impact": 1,
+    "response": "Fazer as pequenas alterações caso necessário"
+  },
+  {
+    "id": 1780082055668,
+    "name": "🏭 Incêndio destrói data center principal",
+    "prob": 1,
+    "impact": 5,
+    "response": "Sistema  contra incêndio"
+  },
+  {
+    "id": 1780082086300,
+    "name": "📱 Concorrente lança produto similar grátis",
+    "prob": 3,
+    "impact": 3,
+    "response": "Tornar o projeto mais unico"
+  }
+]
